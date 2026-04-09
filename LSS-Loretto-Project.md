@@ -17,8 +17,8 @@ Solutions implemented included a QR-code-linked Google Form for digital laundry 
 
 | Name | Role |
 |------|------|
-| Meghana Nair | Team Leader |
-| Gauri Sachan | Team Member |
+| Gauri Sachan | Team Leader |
+| Meghana Nair | Team Member |
 | Kaavya Shastri | Team Member |
 | Vaishnavi Sulakhe | Team Member |
 | Luan (Head of Housekeeping, Loretto) | Champion |
