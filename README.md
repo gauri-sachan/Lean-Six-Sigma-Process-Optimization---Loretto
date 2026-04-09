@@ -39,7 +39,7 @@ Laundry operations were experiencing frequent delays, backlog formation, and lac
 
 ## 👥 Team
 
-Meghana Nair (Team Leader), Gauri Sachan, Kaavya Shastri, Vaishnavi Sulakhe
+Gauri Sachan, Meghana Nair, Kaavya Shastri, Vaishnavi Sulakhe
 **Champion:** Luan, Head of Housekeeping, Loretto
 **Advisor:** Professor Gary LaPoint, Syracuse University
 
