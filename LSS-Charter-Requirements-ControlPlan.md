@@ -7,9 +7,9 @@
 
 **Project Name:** Laundry Process Improvement at Loretto Health & Rehabilitation
 **Business/Location:** Loretto Health & Rehabilitation, 700 E Brighton Ave, Syracuse, NY 13205
-**Team Leader:** Meghana Nair
+**Team Leader:** Gauri Sachan
 **Champion:** Luan, Head of Housekeeping, Loretto
-**Prepared By:** Meghana Nair and Gauri Sachan
+**Prepared By:**Gauri Sachan and Meghana Nair**
 **Date (Last Revision):** December 04, 2025
 **Project Start:** September 2025 | **Project Completion:** December 16, 2025
 
