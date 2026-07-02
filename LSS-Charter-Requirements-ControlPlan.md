@@ -9,7 +9,7 @@
 **Business/Location:** Loretto Health & Rehabilitation, 700 E Brighton Ave, Syracuse, NY 13205
 **Team Leader:** Gauri Sachan
 **Champion:** Luan, Head of Housekeeping, Loretto
-**Prepared By:**Gauri Sachan and Meghana Nair**
+**Prepared By:** Gauri Sachan and Meghana Nair
 **Date (Last Revision):** December 04, 2025
 **Project Start:** September 2025 | **Project Completion:** December 16, 2025
 
